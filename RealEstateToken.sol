@@ -8,6 +8,11 @@ import {RealEstatePriceDetails} from "./RealEstatePriceDetails.sol";
  * THIS IS AN EXAMPLE CONTRACT THAT USES HARDCODED VALUES FOR CLARITY.
  * THIS IS AN EXAMPLE CONTRACT THAT USES UN-AUDITED CODE.
  * DO NOT USE THIS CODE IN PRODUCTION.
+ 
+ * getPriceDetails returns: 
+ *ListPrice:761167,
+ *OriginalListPrice:770747,
+ *taxAssessedValue:729187
  */
 contract RealEstateToken is CrossChainBurnAndMintERC1155, RealEstatePriceDetails {
     /**

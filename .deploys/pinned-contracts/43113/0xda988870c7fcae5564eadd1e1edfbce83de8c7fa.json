@@ -1,6 +1,6 @@
 {
   "name": "RwaLending",
-  "address": "0x07f57c151ac8070ea62eafef1c3b1b17d9f13242",
+  "address": "0xda988870c7fcae5564eadd1e1edfbce83de8c7fa",
   "abi": [
     {
       "inputs": [],
@@ -474,5 +474,5 @@
     }
   ],
   "filePath": "RWA Tokenization Bootcamp/RWALending.sol",
-  "pinnedAt": 1727776602524
+  "pinnedAt": 1727790154556
 }
